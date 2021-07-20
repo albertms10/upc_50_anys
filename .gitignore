@@ -1,0 +1,12 @@
+/.idea/
+**/vendor/
+**/webfonts/
+
+**/dev/
+
+.env.php
+
+styles.css
+*.min.*
+
+.DS_Store

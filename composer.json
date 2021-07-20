@@ -1,0 +1,27 @@
+{
+    "name": "upc/upc_50_anys",
+    "description": "UPC 50 anys",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "albertms10",
+            "email": "albertmasa2@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/albertms10/upc_50_anys.git"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "UPC\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8"
+    }
+}

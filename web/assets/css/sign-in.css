@@ -1,0 +1,9 @@
+body > .grid {
+    position: relative;
+    bottom: 2rem;
+    height: 100%;
+}
+
+.column {
+    max-width: 450px;
+}
